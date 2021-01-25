@@ -16,7 +16,7 @@ and install with pip
 pip install git+https://github.com/robin-schneider/fiberpolytope
 ```
 
-this however might not always work. You can also just go to the [fiberpolytope.sage](https://github.com/robin-schneider/fiberpolytope) file, put it in your working directory, and use:
+this however might not always work. You can also just go to the [fiberpolytope.sage](https://github.com/robin-schneider/fiberpolytope/blob/main/fiberpolytope/fiberpolytope.sage) file, put it in your working directory, and use:
 
 ```python
 load('fiberpolytope.sage')
