@@ -1,0 +1,2 @@
+include fiberpolytope/fiberpolytope.sage
+recursice-include fiberpolytope *.sage
